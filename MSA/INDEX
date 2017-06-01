@@ -1,0 +1,15 @@
+msa.data.dest           msa.data.dest
+msa.data.gageRR         msa.data.gageRR
+msa.data.linBias        msa.data.linBias
+msa.data.oneway         msa.data.type3
+msa.data.repBias        msa.data.repBias
+msa.data.repBias2       msa.data.repBias2
+msa.destGageTable       MSA distructive Testing
+msa.destTest            MSA destructive Test
+msa.gageRR              MSA gage R&R test
+msa.gageRR2             MSA Type1 study analysis
+msa.linBias             MSA linearity and bias test
+msa.oneway              MSA gageR&R oneway study analysis
+msa.prepCanvas          This is used to get prepare visualization
+msa.repBias             MSA Reapeatability and Bias test
+msa.type1               MSA Type1 study analysis
