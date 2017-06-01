@@ -1,0 +1,17 @@
+expPerform_ingroup      This is used for ingroup expected performance
+expPerform_overall      This is used for overall expected performance
+gcd                     getting GCD
+getSp                   This is used to get Sp
+hello                   Hello, World!
+obPerform               This is used for observation performance
+pca.gcd                 getting GCD
+pca.prepCanvas          This is used to get prepare visualization
+ppclist                 This is used total Potential Process Capability
+                        in R
+rangeMinMax             This is used for subtract max to min
+sdOverAll               This is used for getting total standard
+                        deviation.
+sdOverAll2              This is used for getting total standard
+                        deviation.(when n ==1)
+splitby                 This is used for spliting data by group
+tpplist                 This is used total Process Performance in R
